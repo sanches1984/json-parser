@@ -1,0 +1,9 @@
+{
+  "path": "data_example.json",
+  "filter": {
+    "postcode": "10120",
+    "am": 10,
+    "pm": 3,
+    "recipe_names": ["Potato", "Veggie", "Mushroom"]
+  }
+}
